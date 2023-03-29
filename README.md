@@ -12,8 +12,8 @@
     - phonebook_raw.csv  адресная книга не отсортированная
     - phonebook.csv   адресная книга исправленная
 - 
-## Папка Web_csrapping
-### Домашнее задание к лекции 6.«Web-scrapping» На проверке.
+### Папка Web_csrapping
+#### Домашнее задание к лекции 6.«Web-scrapping» На проверке.
 
     - main.py     запускающий файл 
     - vacancy.json  результирующий json
