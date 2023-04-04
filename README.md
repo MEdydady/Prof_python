@@ -11,11 +11,19 @@
     - main.py     запускающий файл 
     - phonebook_raw.csv  адресная книга не отсортированная
     - phonebook.csv   адресная книга исправленная
-- 
+
 ### Папка Web_csrapping
-#### Домашнее задание к лекции 6.«Web-scrapping» На проверке.
+#### Домашнее задание к лекции 6.«Web-scrapping» Сдано).
 
     - main.py     запускающий файл 
     - vacancy.json  результирующий json
+
+
+### Папка Iterator
+#### Домашнее задание к лекции 2. «Iterators. Generators. Yield»  На проверке.
+
+    - main.py     Задание 1
+    - main2.py   Задание 2
+    - main3.py    Задание 3
 
 
