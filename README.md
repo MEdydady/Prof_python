@@ -20,10 +20,16 @@
 
 
 ### Папка Iterator
-#### Домашнее задание к лекции 2. «Iterators. Generators. Yield»  На проверке.
+#### Домашнее задание к лекции 2. «Iterators. Generators. Yield»  Сдано).
 
     - main.py     Задание 1
     - main2.py   Задание 2
     - main3.py    Задание 3
 
-
+### Папка Decorators
+#### Домашнее задание к лекции 3. «Decorators» на проверке.
+    
+    - main.py     Задание 1
+    - main2.py   Задание 2
+    - main3.py    Задание 3
+    - phonebook.csv  для 3 задания.
